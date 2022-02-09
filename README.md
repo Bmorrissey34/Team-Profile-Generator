@@ -19,9 +19,7 @@ NPM I
 
 ## Usage
 
-https://user-images.githubusercontent.com/88950762/153304328-8702f70f-2e46-4813-ba50-5ee6f6f93fc8.mp4
-
-
+https://user-images.githubusercontent.com/88950762/153305229-0702d2f0-3d28-4343-9be9-d0523ab642d0.mp4
 
 ## My Info
 GitHub Username: https://github.com/Bmorrissey34
@@ -34,4 +32,8 @@ Github Repo : https://github.com/Bmorrissey34/Team-Profile-Generator
     Baylor Hinshaw
 
     
+
+
+
+
     
