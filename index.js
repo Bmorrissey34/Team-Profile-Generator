@@ -158,6 +158,10 @@ const makeHtml = () => {
     </body>
     </html>`;
 
+    console.log('------------------------------------');
+    console.log(htmlPage);
+    console.log('------------------------------------');
+    
     fs.writeFile('./dist/index.html', htmlPage, function (err) {
         if (err) {
             console.log('There was an error!');

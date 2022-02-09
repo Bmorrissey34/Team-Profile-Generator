@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(238, 155, 30);
+}
+
+h1 {
+    text-align: center;
+}
+
+.cards {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}

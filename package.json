@@ -1,20 +1,27 @@
 {
-  "name": "wordguess",
+  "name": "team-profile-generator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
   "scripts": {
-    "start": "node index",
-    "watch": "nodemon index",
     "test": "jest"
   },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "chalk": "^2.4.1",
-    "inquirer": "^6.2.1"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bmorrissey34/Team-Profile-Generator.git"
   },
-  "devDependencies": {
-    "jest": "^24.8.0"
+  "author": "Brendan Morrissey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bmorrissey34/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/Bmorrissey34/Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.3.1"
   }
 }
